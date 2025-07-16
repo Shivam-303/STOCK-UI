@@ -1,0 +1,5 @@
+[
+  { "symbol": "TCS", "name": "Tata Consultancy Services", "price": 3550 },
+  { "symbol": "INFY", "name": "Infosys", "price": 1450 },
+  { "symbol": "HDFCBANK", "name": "HDFC Bank", "price": 1700 }
+]
